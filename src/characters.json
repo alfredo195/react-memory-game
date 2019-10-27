@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Goku",
+    "image": "https://www.geek.com/wp-content/uploads/2018/06/goku_large-625x352.png"
+  },
+  {
+    "id": 2,
+    "name": "Vegeta",
+    "image": "https://i.pinimg.com/736x/4f/2b/dd/4f2bdd4891e5837eb3a1931d8a6e88bb.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Vegito",
+    "image": "https://qph.fs.quoracdn.net/main-qimg-402571302a90a39437d021ee3277e5de"
+  },
+  {
+    "id": 4,
+    "name": "Gogeta",
+    "image": "https://img.europapress.es/fotoweb/fotonoticia_20181130135237_640.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Goku Black",
+    "image": "https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/2018/03/dragon_ball_super_156.jpg?itok=Re1IoyW2"
+  },
+  {
+    "id": 6,
+    "name": "Bulma",
+    "image": "https://emptylighthouse-production.s3-us-west-2.amazonaws.com/s3fs-public/styles/728x_hero/public/field/image/dragon-ball-super-042-bulma.jpg?itok=ZR21vw8N"
+  },
+  {
+    "id": 7,
+    "name": "Chi Chi",
+    "image": "https://i.ytimg.com/vi/59MTovEEtg8/maxresdefault.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Gohan",
+    "image": "https://techanimate.com/wp-content/uploads/2017/11/Why-does-Gohan-Have-so-much-Hidden-Power-1024x576.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Kid Buu",
+    "image": "https://i.ytimg.com/vi/GlXU-BjyQzo/maxresdefault.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Caulifla",
+    "image": "https://otakuorbit.files.wordpress.com/2017/10/113_1.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Frieza",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/22f100a0-9956-4385-b924-87f448eb8667/dc8jbwo-281a5455-d2bf-476c-bd1f-ee54e5425e3e.jpg/v1/fill/w_788,h_1014,q_70,strp/perfect_golden_frieza_by_nekoar_dc8jbwo-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTMxNyIsInBhdGgiOiJcL2ZcLzIyZjEwMGEwLTk5NTYtNDM4NS1iOTI0LTg3ZjQ0OGViODY2N1wvZGM4amJ3by0yODFhNTQ1NS1kMmJmLTQ3NmMtYmQxZi1lZTU0ZTU0MjVlM2UuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.sUZIm595iSjknZwS9Z0sd_61RR_rZZ-swzRnJOyVBCw"
+  },
+  {
+    "id": 12,
+    "name": "Beerus",
+    "image": "https://i.pinimg.com/originals/51/56/35/515635729b187becaac7d4f78250283d.jpg"
+  }
+]
