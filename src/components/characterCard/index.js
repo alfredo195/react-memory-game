@@ -7,7 +7,6 @@ function characterCard(props) {
             <div className="img-container">
                 <img alt={props.name} src={props.images}/>
             </div>
-            <span></span>
         </div>
     )
 }
