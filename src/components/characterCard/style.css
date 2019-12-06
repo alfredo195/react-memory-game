@@ -5,10 +5,14 @@
   margin: 1rem;
   position: relative;
   width: 200px;
+  object-fit: cover;
   box-shadow: 0 3px 6px #999, 0 3px 6px #999;
   text-align: left;
   float: left;
   transition: transform 0.3s;
-  object-fit: contain;
 }
 
+img {
+  height: 200px;
+  width: 200px;
+}

@@ -1,5 +1,7 @@
 This is a fun memory game with a Dragon Ball theme, built using the framwork React. The rules of the game are as follows you click on a picture and it remembers the picture you click and keeps score, if you click on a picture you clicked you lose and the game starts over and shows you your high score.  
 
+! [alt text](/public/DBZ.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
