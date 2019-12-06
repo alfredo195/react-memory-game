@@ -2,6 +2,8 @@ This is a fun memory game with a Dragon Ball theme, built using the framwork Rea
 
 ![alt text](/public/DBZ.png)
 
+link to deployed app:  https://alfredo195.github.io/react-memory-game/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
